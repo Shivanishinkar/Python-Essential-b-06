@@ -1,0 +1,40 @@
+<=: Python Essential Day 1 Assignment 1 :=>
+
+Question 1 Answer =:) 
+
+What is python:
+
+Python is a general-purpose coding language—which means that, unlike HTML, CSS, and JavaScript, it can be used for other types of programming and software development besides web development.understanding is easy in the Python. It is used in the AIML. And it has huge amount of open source libraries. It was created by Guido Van Rossum in 1991.
+
+Steps to install Python on your PC :
+
+Way-1: (Using Anaconda)
+
+1. Go to Anaconda https://www.anaconda.com/products/individual=> Anaconda Installers => Downloads => Select Windows or Mac OS or Linux as per your requirement => select Bit (32/64 bit) => select Version 3.7 => Download
+2. Open and run Installer
+3. Open Anaconda navigator => launch Jupyter Notebook (Or any other IDE you want to use).
+4. Open Jupyter notebook
+
+Way-2: (Using Python Installer)
+
+1.To download and install Python visit the official website of Python https://www.python.org/downloads/ and choose your version. We have chosen Python version 3.6.3
+2.Once the download is complete, run the exe for install Python. Now click on Install Now.
+
+Way-3: (Using Pycharm)
+
+1.To download PyCharm visit the website https://www.jetbrains.com/pycharm/download/and Click the "DOWNLOAD" link under the Community Section.
+2.Once the download is complete, run the exe for install PyCharm.
+3.Wait for the installation to finish. 
+
+
+Question 2 Answer =:) 
+
+Code environment is all about writing down the program, compiling code and getting output of the code.
+
+Three types of environments are:
+
+a) Text Editors- It is general editor for any text file. Most popular text editors are: Visual studio code and Atom.
+
+b) Full IDE’s- It is the development environment designed specifically for Python. Most popular are: Pycharm and Spyder.
+
+c) Notebook environments- It is great for learning and supports inline markdown notes, visualization, videos and more. Most popular is Jupyter Notebook.
